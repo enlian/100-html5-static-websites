@@ -1,6 +1,5 @@
 jQuery(document).ready(function () {
 
-    // jQuery(".play-1, .play-2").yu2fvl();
 
     jQuery(".owl-carousel4").owlCarousel(
         {
