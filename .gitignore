@@ -1,3 +1,8 @@
 run.js
 node_modules/
 zips/
+.gitignore
+package.json
+package-lock.json
+**/LICENSE.txt
+**/README.txt
