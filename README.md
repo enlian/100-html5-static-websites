@@ -2,6 +2,34 @@
 
 Welcome to our collection of 100 HTML5 static website templates! These templates are designed to help you speed up your website creation process by providing fully functional, responsive, and customizable HTML5 and CSS templates. Each template is purely static, meaning you can deploy them directly to any static server, and they'll be ready to run without any additional configuration.
 
+## Demo Link
+<img src="./mdImg/blend_featured_img.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/app/)
+
+<img src="./mdImg/homestate_featured_img.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/homestate/)
+
+<img src="./mdImg/magazine_featured_img.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/magazine/)
+
+<img src="./mdImg/multipurpose.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/multipurpose/)
+
+<img src="./mdImg/present_featured_img.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/present/)
+
+<img src="./mdImg/shahala.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/shahala/)
+
+<img src="./mdImg/app.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/app/)
+
+<img src="./mdImg/simple_featured_img.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/simple/)
+
+<img src="./mdImg/slides.jpg" width="300"/>
+[Demo Link](https://html5-black.vercel.app/slides/)
+
 ## Key Features:
 - **100 Unique Templates**: A diverse collection of website templates, perfect for a variety of projects.
 - **HTML5 + CSS**: Fully compliant with modern HTML5 and CSS standards, ensuring clean and efficient code.
