@@ -4,31 +4,31 @@ Welcome to our collection of 100 HTML5 static website templates! These templates
 
 ## Demo Link
 <img src="./mdImg/blend_featured_img.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/app/)
+<a href="https://html5-black.vercel.app/blend/" target="_blank">https://html5-black.vercel.app/blend/</a>
 
 <img src="./mdImg/homestate_featured_img.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/homestate/)
+<a href="https://html5-black.vercel.app/homestate/" target="_blank">https://html5-black.vercel.app/homestate/</a>
 
 <img src="./mdImg/magazine_featured_img.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/magazine/)
+<a href="https://html5-black.vercel.app/magazine/" target="_blank">https://html5-black.vercel.app/magazine/</a>
 
 <img src="./mdImg/multipurpose.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/multipurpose/)
+<a href="https://html5-black.vercel.app/multipurpose/" target="_blank">https://html5-black.vercel.app/multipurpose/</a>
 
 <img src="./mdImg/present_featured_img.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/present/)
+<a href="https://html5-black.vercel.app/present/" target="_blank">https://html5-black.vercel.app/present/</a>
 
 <img src="./mdImg/shahala.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/shahala/)
+<a href="https://html5-black.vercel.app/shahala/" target="_blank">https://html5-black.vercel.app/shahala/</a>
 
 <img src="./mdImg/app.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/app/)
+<a href="https://html5-black.vercel.app/app/" target="_blank">https://html5-black.vercel.app/app/</a>
 
 <img src="./mdImg/simple_featured_img.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/simple/)
+<a href="https://html5-black.vercel.app/simple/" target="_blank">https://html5-black.vercel.app/simple/</a>
 
 <img src="./mdImg/slides.jpg" width="300"/>
-[Demo Link](https://html5-black.vercel.app/slides/)
+<a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
 
 ## Key Features:
 - **100 Unique Templates**: A diverse collection of website templates, perfect for a variety of projects.
