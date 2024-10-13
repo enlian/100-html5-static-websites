@@ -20,35 +20,43 @@ Welcome to our collection of 100 HTML5 static website templates! These templates
 ## Demo Link
 <img src="./mdImg/blend_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/blend/" target="_blank">https://html5-black.vercel.app/blend/</a>
-<br/>
+
+---
 
 <img src="./mdImg/homestate_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/homestate/" target="_blank">https://html5-black.vercel.app/homestate/</a>
-<br/>
+
+---
 
 <img src="./mdImg/magazine_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/magazine/" target="_blank">https://html5-black.vercel.app/magazine/</a>
-<br/>
+
+---
 
 <img src="./mdImg/multipurpose.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/multipurpose/" target="_blank">https://html5-black.vercel.app/multipurpose/</a>
-<br/>
+
+---
 
 <img src="./mdImg/present_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/present/" target="_blank">https://html5-black.vercel.app/present/</a>
-<br/>
+
+---
 
 <img src="./mdImg/shahala.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/shahala/" target="_blank">https://html5-black.vercel.app/shahala/</a>
-<br/>
+
+---
 
 <img src="./mdImg/app.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/app/" target="_blank">https://html5-black.vercel.app/app/</a>
-<br/>
+
+---
 
 <img src="./mdImg/simple_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/simple/" target="_blank">https://html5-black.vercel.app/simple/</a>
-<br/>
+
+---
 
 <img src="./mdImg/slides.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
