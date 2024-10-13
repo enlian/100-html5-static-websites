@@ -2,34 +2,6 @@
 
 Welcome to our collection of 100 HTML5 static website templates! These templates are designed to help you speed up your website creation process by providing fully functional, responsive, and customizable HTML5 and CSS templates. Each template is purely static, meaning you can deploy them directly to any static server, and they'll be ready to run without any additional configuration.
 
-## Demo Link
-<img src="./mdImg/blend_featured_img.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/blend/" target="_blank">https://html5-black.vercel.app/blend/</a>
-
-<img src="./mdImg/homestate_featured_img.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/homestate/" target="_blank">https://html5-black.vercel.app/homestate/</a>
-
-<img src="./mdImg/magazine_featured_img.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/magazine/" target="_blank">https://html5-black.vercel.app/magazine/</a>
-
-<img src="./mdImg/multipurpose.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/multipurpose/" target="_blank">https://html5-black.vercel.app/multipurpose/</a>
-
-<img src="./mdImg/present_featured_img.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/present/" target="_blank">https://html5-black.vercel.app/present/</a>
-
-<img src="./mdImg/shahala.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/shahala/" target="_blank">https://html5-black.vercel.app/shahala/</a>
-
-<img src="./mdImg/app.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/app/" target="_blank">https://html5-black.vercel.app/app/</a>
-
-<img src="./mdImg/simple_featured_img.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/simple/" target="_blank">https://html5-black.vercel.app/simple/</a>
-
-<img src="./mdImg/slides.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
-
 ## Key Features:
 - **100 Unique Templates**: A diverse collection of website templates, perfect for a variety of projects.
 - **HTML5 + CSS**: Fully compliant with modern HTML5 and CSS standards, ensuring clean and efficient code.
@@ -44,6 +16,42 @@ Welcome to our collection of 100 HTML5 static website templates! These templates
 3. Customize the content and design as needed.
 4. Upload the files to your static server.
 5. Your website is live and ready to go!
+
+## Demo Link
+<img src="./mdImg/blend_featured_img.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/blend/" target="_blank">https://html5-black.vercel.app/blend/</a>
+<br/>
+
+<img src="./mdImg/homestate_featured_img.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/homestate/" target="_blank">https://html5-black.vercel.app/homestate/</a>
+<br/>
+
+<img src="./mdImg/magazine_featured_img.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/magazine/" target="_blank">https://html5-black.vercel.app/magazine/</a>
+<br/>
+
+<img src="./mdImg/multipurpose.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/multipurpose/" target="_blank">https://html5-black.vercel.app/multipurpose/</a>
+<br/>
+
+<img src="./mdImg/present_featured_img.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/present/" target="_blank">https://html5-black.vercel.app/present/</a>
+<br/>
+
+<img src="./mdImg/shahala.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/shahala/" target="_blank">https://html5-black.vercel.app/shahala/</a>
+<br/>
+
+<img src="./mdImg/app.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/app/" target="_blank">https://html5-black.vercel.app/app/</a>
+<br/>
+
+<img src="./mdImg/simple_featured_img.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/simple/" target="_blank">https://html5-black.vercel.app/simple/</a>
+<br/>
+
+<img src="./mdImg/slides.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
 
 ## Contribution:
 This project is open source, and contributions are welcome. If you'd like to add your own templates or improve the existing ones, feel free to submit a pull request.
