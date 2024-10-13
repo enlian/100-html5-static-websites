@@ -18,6 +18,12 @@ Welcome to our collection of 100 HTML5 static website templates! These templates
 5. Your website is live and ready to go!
 
 ## Demo Link
+
+<img src="./mdImg/slides.jpg" width="300"/>
+<a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
+
+---
+
 <img src="./mdImg/blend_featured_img.jpg" width="300"/>
 <a href="https://html5-black.vercel.app/blend/" target="_blank">https://html5-black.vercel.app/blend/</a>
 
@@ -58,8 +64,6 @@ Welcome to our collection of 100 HTML5 static website templates! These templates
 
 ---
 
-<img src="./mdImg/slides.jpg" width="300"/>
-<a href="https://html5-black.vercel.app/slides/" target="_blank">https://html5-black.vercel.app/slides/</a>
 
 ## Contribution:
 This project is open source, and contributions are welcome. If you'd like to add your own templates or improve the existing ones, feel free to submit a pull request.
