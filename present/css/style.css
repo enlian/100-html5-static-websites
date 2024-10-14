@@ -1,11 +1,14 @@
 @font-face {
-  font-family: 'icomoon';
+  font-family: "icomoon";
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  src:
+    url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"),
+    url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"),
+    url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
-
 body {
   font-family: "Roboto", Arial, serif;
   line-height: 1.8;
@@ -18,7 +21,6 @@ body {
 body.fh5co-offcanvas {
   overflow: hidden;
 }
-
 a {
   color: #2da9d7;
   -webkit-transition: 0.5s;
@@ -29,43 +31,44 @@ a:hover {
   text-decoration: none !important;
   color: #2da9d7 !important;
 }
-a:active, a:focus {
+a:active,
+a:focus {
   outline: none;
 }
-
-p, ul, ol {
+p,
+ul,
+ol {
   margin-bottom: 1.5em;
   font-size: 15px;
   color: #848484;
   font-family: "Roboto", Arial, serif;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #212121;
   font-family: "Roboto", Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
-
 figure {
   margin-bottom: 2em;
 }
-
 ::-webkit-selection {
   color: #fcfcfc;
   background: #2da9d7;
 }
-
 ::-moz-selection {
   color: #fcfcfc;
   background: #2da9d7;
 }
-
 ::selection {
   color: #fcfcfc;
   background: #2da9d7;
 }
-
 #fh5co-header {
   padding-top: 40px;
   margin-bottom: 30px;
@@ -99,7 +102,9 @@ figure {
     padding: 5px;
   }
 }
-#fh5co-header nav ul li a:hover, #fh5co-header nav ul li a:active, #fh5co-header nav ul li a:focus {
+#fh5co-header nav ul li a:hover,
+#fh5co-header nav ul li a:active,
+#fh5co-header nav ul li a:focus {
   color: #000 !important;
   text-decoration: none;
   outline: none;
@@ -108,12 +113,11 @@ figure {
   text-decoration: line-through !important;
   color: black !important;
 }
-
-.fh5co-projects-feed, .footer-content {
+.fh5co-projects-feed,
+.footer-content {
   margin: 0 auto;
   max-width: 1400px;
 }
-
 .fh5co-projects-feed .fh5co-project {
   float: left;
   margin: 20px 20px 20px;
@@ -138,26 +142,24 @@ figure {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
-.fh5co-projects-feed .fh5co-project > a:hover h2, .fh5co-projects-feed .fh5co-project > a:active h2, .fh5co-projects-feed .fh5co-project > a:focus h2 {
+.fh5co-projects-feed .fh5co-project > a:hover h2,
+.fh5co-projects-feed .fh5co-project > a:active h2,
+.fh5co-projects-feed .fh5co-project > a:focus h2 {
   color: #000;
 }
-
 .masonry,
 .masonry .masonry-brick {
   -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
-
 .masonry {
   -webkit-transition-property: height, width;
   transition-property: height, width;
 }
-
 .masonry .masonry-brick {
   -webkit-transition-property: left, right, top;
   transition-property: left, right, top;
 }
-
 .page-content {
   margin: 0 auto;
   max-width: 620px;
@@ -186,7 +188,9 @@ figure {
 .page-content .meta a {
   color: #bfbfbf;
 }
-.page-content .meta a:hover, .page-content .meta a:active, .page-content .meta a:focus {
+.page-content .meta a:hover,
+.page-content .meta a:active,
+.page-content .meta a:focus {
   color: #000 !important;
 }
 @media screen and (max-width: 480px) {
@@ -195,7 +199,6 @@ figure {
     padding-bottom: 30px;
   }
 }
-
 #fh5co-footer {
   float: left;
   width: 100%;
@@ -208,7 +211,9 @@ figure {
 #fh5co-footer a {
   color: #bfbfbf;
 }
-#fh5co-footer a:hover, #fh5co-footer a:active, #fh5co-footer a:focus {
+#fh5co-footer a:hover,
+#fh5co-footer a:active,
+#fh5co-footer a:focus {
   color: #000 !important;
 }
 #fh5co-footer .social {
@@ -223,14 +228,14 @@ figure {
     padding: 5px;
   }
 }
-#fh5co-footer .social a:hover, #fh5co-footer .social a:active, #fh5co-footer .social a:focus {
+#fh5co-footer .social a:hover,
+#fh5co-footer .social a:active,
+#fh5co-footer .social a:focus {
   color: #000 !important;
 }
-
 .square {
   list-style: square;
 }
-
 .pt70 {
   padding-top: 70px;
 }
@@ -239,7 +244,6 @@ figure {
     padding-top: 30px;
   }
 }
-
 .pb70 {
   padding-bottom: 70px;
 }
@@ -248,5 +252,3 @@ figure {
     padding-bottom: 30px;
   }
 }
-
-
